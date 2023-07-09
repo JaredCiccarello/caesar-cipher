@@ -22,7 +22,7 @@ python3 -m venv .venv
 pip3 install re(regex) in venv
 
 Run:
-python3 -m 
+python3 -m caesar_cipher.py
 
 Run tests:
 test: pytest tests/test_caesar_cipher.py  
